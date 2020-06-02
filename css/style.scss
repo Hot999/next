@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Segoe UI Regular';
+    src: url('../public/fonts/SegoeUI.eot');
+    src: url('../public/fonts/SegoeUI.eot?#iefix') format('embedded-opentype'),
+    url('../public/fonts/SegoeUI.woff') format('woff'),
+    url('../public/fonts/SegoeUI.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+body {
+    background: #F3F8FA;
+    font-family: 'Segoe UI Regular', sans-serif!important;
+}
